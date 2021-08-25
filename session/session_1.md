@@ -39,7 +39,7 @@ var obj = {
 var fn = obj.bar();
 
 console.log(fn() === obj);
-console.log(fn2()() == window);
+console.log(fn2()() === obj);
 ```
 
 ###### 9.
