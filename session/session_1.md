@@ -37,7 +37,7 @@ var obj = {
 };
 
 var fn = obj.bar();
-
+var fn2 = obj.bar;
 console.log(fn() === obj);
 console.log(fn2()() === obj);
 ```
