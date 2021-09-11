@@ -7,3 +7,5 @@
 |2주차|tsconfig|TS|
 |3주차|d.ts|TS|
 |4주차|prototype|JS|
+
+***
